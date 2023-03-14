@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Roll Dice</string>
+    <string name="roll_the_dice">Roll the dice</string>
+    <string name="results_for_dice_2">Results for dice 2</string>
+    <string name="results_for_dice_1">Results for dice 1</string>
+    <string name="total_results_rolled">Total results rolled</string>
+    <string name="click_the_button_to_roll_the_dice">Click the button to roll the dice</string>
 </resources>
